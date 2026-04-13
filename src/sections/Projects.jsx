@@ -18,14 +18,14 @@ const projects = [
   },
   {
     id: "02",
-    title: "College Attendance System",
+    title: "Hospital Management System",
     tagline: "Full-Stack · MERN",
     description:
-      "A comprehensive attendance management platform for colleges. Features role-based auth (Admin / Teacher / Student), real-time attendance marking, analytics dashboard, report generation, and a fully responsive UI.",
+      "A comprehensive hospital management system with features for patient records, appointment scheduling, medical history tracking, and staff management. Built with a modern tech stack for optimal performance and scalability.",
     tech: ["MongoDB", "Express.js", "React", "Node.js", "JWT Auth", "Tailwind CSS"],
     color: "#00fff0",
-    github: "https://github.com/",
-    live: null,
+    github: "https://github.com/shivam0028/Hospital-Management-System",
+    live: none,
     featured: false,
   },
   {
