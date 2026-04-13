@@ -25,7 +25,7 @@ const projects = [
     tech: ["MongoDB", "Express.js", "React", "Node.js", "JWT Auth", "Tailwind CSS"],
     color: "#00fff0",
     github: "https://github.com/shivam0028/Hospital-Management-System",
-    live: none,
+    live: "https://hospital-management-system-uirv.vercel.app/",
     featured: false,
   },
   {
@@ -37,7 +37,7 @@ const projects = [
     tech: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
     color: "#7b2fff",
     github: "https://github.com/shivam0028/portfolio",
-    live: null,
+    live: "https://shivam0028.github.io/portfolio/",
     featured: false,
   },
 ];
